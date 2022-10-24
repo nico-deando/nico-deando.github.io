@@ -136,6 +136,7 @@ border-spacing: 0;
 @media (min-width:900px){
   .content{
   padding: 1.7em;
+  overflow: hidden;
   }
   td{
     display: table-cell;
