@@ -18,7 +18,7 @@ btn.forEach(function(boton){
     //Seteo el tiempo de espera para el retorno a la pag principal
     setTimeout(function(){
       //Elijo la ruta de redireccion
-      location.href = "/";
+      location.href = "/boletines";
     },700);
 
   })
